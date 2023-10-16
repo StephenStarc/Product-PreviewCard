@@ -100,7 +100,6 @@
 @media (min-width:600px){
     .product-card{
         grid-template-columns: 1fr 1fr;
-        padding: 1rem;
     }
     body{
     background-image: url(./images/back.jpg);
